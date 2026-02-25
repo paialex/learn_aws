@@ -1,0 +1,23 @@
+- [x] Amazon VPC (Virtual Private Cloud) — core networking foundation: subnets, route tables, egress/ingress, NACLs, security groups.
+- [x] AWS Direct Connect — hybrid connections into AWS with private/public VIFs & BGP.
+- [x] AWS Transit Gateway (TGW) — hub-and-spoke connectivity and global routing.
+- [x] Amazon Route 53 & Route 53 Resolver — DNS, private hosted zones, forwarding rules, hybrid resolution.
+- [x] VPC Peering & Inter-Region Peering — cross-VPC connectivity patterns.
+- [ ] AWS Site-to-Site VPN — encrypted WAN links with AWS networking.
+- [ ] AWS Network Firewall — managed stateful firewall constructs.
+- [ ] AWS Firewall Manager & Security Services — centralized security governance.
+- [ ] VPC Endpoints (Interface & Gateway) — PrivateLink, DynamoDB/S3 gateway endpoints.
+- [ ] AWS Load Balancers (ALB/NLB/GWLB) — L3/L4/L7 balancing, service insertion.
+  - [x] ALB
+  - [ ] NLB
+  - [ ] GWLB
+- [ ] BGP (Border Gateway Protocol) & Routing Protocol Concepts — path selection, communities, MED, AS_PATH.
+- [ ] Hybrid DNS & DNSSEC — secure DNS resolution for hybrid clouds.
+- [ ] AWS Cloud WAN — global network orchestration and segmentation.
+- [ ] AWS Global Accelerator — edge acceleration & static anycast IPs.
+- [ ] Traffic Mirroring / VPC Traffic Insights — capture & analyze network traffic.
+- [ ] VPC IP Address Manager (IPAM) — automated CIDR allocation and address governance.
+- [ ] AWS PrivateLink — secure service endpoints, cross-account services.
+- [ ] EKS/ECS Network Modes (awsvpc, ENI limits) — advanced container networking patterns.
+- [ ] Lambda VPC Networking / ENIs — serverless inside VPC nuances.
+- [ ] Hybrid Connectivity Patterns (VPN over DX, failover) — multi-path deployments with high availability.
